@@ -9,7 +9,7 @@ An enterprise-grade, modular Python application designed to ingest corporate ear
 Here is a preview of the Streamlit frontend interface processing an earnings report and rendering the extracted structured data:
 
 ```
-![Streamlit Frontend Demo](demo.PNG)
+![Streamlit Frontend Demo](https://raw.githubusercontent.com/PranitDhumal08/Ai-Financials-analyzer/main/demo.PNG)
 ```
 
 ---
