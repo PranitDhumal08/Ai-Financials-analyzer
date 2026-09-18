@@ -1,7 +1,0 @@
-streamlit
-pandas
-sqlalchemy
-psycopg2-binary
-huggingface_hub
-pdfplumber
-python-dotenv
