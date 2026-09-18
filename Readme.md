@@ -1,6 +1,6 @@
 # AI-Powered Financial Document Analyzer & SQL Pipeline
 
-An enterprise-grade, modular Python application designed to ingest corporate earnings report PDFs, extract structured financial metrics using Large Language Models (LLMs) via Hugging Face, preview them through an interactive **Streamlit Web UI**, and commit the structured data directly into a local PostgreSQL database using Pandas and SQLAlchemy.
+An enterprise-grade, modular Python application designed to ingest corporate earnings report PDFs, extract structured financial metrics using Large Language Models (LLMs) via Hugging Face, preview the[...] 
 
 ---
 
@@ -8,9 +8,7 @@ An enterprise-grade, modular Python application designed to ingest corporate ear
 
 Here is a preview of the Streamlit frontend interface processing an earnings report and rendering the extracted structured data:
 
-```
-![Streamlit Frontend Demo](./demo.PNG)
-```
+![Streamlit Frontend Demo](./demo.png)
 
 ---
 
